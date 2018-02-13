@@ -2,13 +2,16 @@
 Pyramid node Tree Path Summary
 Input:
 File with numbers, arranged in a “Pyramid” structure, e.g.:
-                55
+               
+	       55
 								
           94       48
 					
      95      30        28
+     
 		 
 77      71       26         28
+
 
 
 Definition:
