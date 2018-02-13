@@ -9,7 +9,7 @@ File with numbers, arranged in a “Pyramid” structure, e.g.:
 					
      95      30        28
  
- 77      71       26       28
+ 77       71        26        28
      
 		 
 Definition:
