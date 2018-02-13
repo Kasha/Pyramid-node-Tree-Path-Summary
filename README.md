@@ -3,17 +3,15 @@ Pyramid node Tree Path Summary
 Input:
 File with numbers, arranged in a “Pyramid” structure, e.g.:
                
-	       55
+	         55
 								
           94       48
 					
      95      30        28
+ 
+ 77      71       26       28
      
 		 
-77      71       26         28
-
-
-
 Definition:
 Path – list of numbers, one from each row. The path must start in the first row ( pyramid head) and go down row by row until the last row, while it cant move more than one to the right or left, for example a path that includes  48 and 95 is not valid.
 Example for valid path – 55, 48, 30, 71
